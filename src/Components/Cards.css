@@ -1,0 +1,31 @@
+.Card {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 60px;
+  }
+  .threecard {
+    display: flex;
+    justify-content: center;
+    margin-top: 110px
+  }
+  .green {
+    background-color: #00ccb1;
+    height: 160px;
+    width: 200px;
+    text-align: center;
+    overflow: hidden;
+    padding: 0 25px;
+    border-radius: 10px;
+  }
+  .green h2 {
+    margin-top: 7%;
+    padding-bottom: 5%;
+    color: #ffffffb3;
+  }
+  .green h1 {
+    padding-bottom: 5%;
+    font-size: 26px;
+    color: white;
+    text-align: center
+  }
+  
